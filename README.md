@@ -1,4 +1,4 @@
-# Breast Cancer Detection using Machine Learning
+# Breast Canser Detection using Machine Learning
 
 ## Overview
 This project implements a **machine learning model** to detect breast cancer based on patient attributes using an **artificial neural network (ANN)**. The model is trained on real-world datasets to provide reliable predictions, aiding in early diagnosis.
